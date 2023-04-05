@@ -11,20 +11,21 @@
 
 > **该教程较为基础，适合NN，CV等初学者。** 
 
+
+**打开cmd， git clone该demo的地址**
 **配环境**：
 
-IAT is built in PyTorch 1.7.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA11.0).
-
-For installing, follow these intructions
+首先起一个虚拟环境，需要配置torch，torchvision等库
 ```
-conda create -n IAT python=3.7
-conda activate IAT
+conda create -n GAN_demo python=3.7
+conda activate GAN_demo
 conda install pytorch=1.7.0 torchvision=0.8.1 cudatoolkit=11.0 -c pytorch
 ```
+配置好torch等框架，安装一些常用的cv视觉库。
 ```
-pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm opencv-python timm warmup-lr torchsummary
+pip install matplotlib scikit-image opencv-python tqdm 
 ```
-or you can install these necessary toolkits by 
+或者可以直接安装requirements.txt
 ```
 pip install -r requirements.txt
 ``` 
