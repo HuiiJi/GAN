@@ -33,7 +33,6 @@ pip install matplotlib scikit-image opencv-python tqdm
 pip install -r requirements.txt
 ``` 
 **运行**
-
 将下载的数据集放在Gan_.py同级目录下
 ```
 python GAN_.py
