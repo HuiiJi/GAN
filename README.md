@@ -12,6 +12,7 @@
 > **该教程较为基础，适合NN，CV等初学者。** 
 
 **配环境**：
+<hp />
 打开cmd， git clone该demo的地址
 ```
 git clone git@github.com:752413464/GAN_.py.git
@@ -32,6 +33,7 @@ pip install matplotlib scikit-image opencv-python tqdm
 pip install -r requirements.txt
 ``` 
 **运行：**
+<hp />
 将下载的数据集放在Gan_.py同级目录下
 ```
 python GAN_.py
