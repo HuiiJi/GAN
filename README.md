@@ -9,5 +9,5 @@
 - [B站讲解链接](https://www.bilibili.com/video/BV1934y1r7jc)
 <hp />
 
-> **该教程较为基础，适合NN，CV等初学者:** 
+> **该教程较为基础，适合NN，CV等初学者。** 
 
