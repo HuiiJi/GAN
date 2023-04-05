@@ -11,13 +11,11 @@
 
 > **该教程较为基础，适合NN，CV等初学者。** 
 
-
+**配环境**：
 打开cmd， git clone该demo的地址
 ```
 git clone 
 ```
-**配环境**：
-
 首先起一个虚拟环境，需要配置torch，torchvision等库
 ```
 conda create -n GAN_demo python=3.7
