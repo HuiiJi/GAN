@@ -6,5 +6,5 @@
 提取码：0203
 </hp>
 
-<hp/>[B站讲解链接][https://www.bilibili.com/video/BV1934y1r7jc]
+<hp/>[B站讲解链接](https://www.bilibili.com/video/BV1934y1r7jc)
 </hp>
