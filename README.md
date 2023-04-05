@@ -2,7 +2,7 @@
 
 ### 前言
 
-*:
+*视频里所需的数据集及搭配环境如下*：
 <hr />
 -数据集已上传百度网盘，如有需要请自取~
 链接：[https://pan.baidu.com/s/1E6pjmurMYruPzKSdR-pORQ] 
