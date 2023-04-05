@@ -10,4 +10,3 @@ I'm happy to write down this note about my work inspired the **Canaan**:
 </hp>
 -[B站讲解链接](https://www.bilibili.com/video/BV1934y1r7jc)
 
-<hr />
