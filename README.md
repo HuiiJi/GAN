@@ -17,7 +17,7 @@
 git clone git@github.com:752413464/GAN_.py.git
 cd GAN_
 ```
-首先起一个虚拟环境，需要配置torch，torchvision等库
+首先起一个虚拟环境，需要配置torch，torchvision等库（**以下命令需要先安装好Anaconda**）
 ```
 conda create -n GAN_demo python=3.7
 conda activate GAN_demo
