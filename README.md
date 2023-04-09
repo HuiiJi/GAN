@@ -1,6 +1,6 @@
 # 最精简代码学习GAN的生成图像示例
 <img src = "809325722_cover.jpg" width= "80%">
-- **前言**
+**前言**
 - 数据集已上传百度网盘，如有需要请自取~
 - [百度网盘链接](https://pan.baidu.com/s/1E6pjmurMYruPzKSdR-pORQ) 
 提取码：0203
