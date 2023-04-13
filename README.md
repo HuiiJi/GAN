@@ -1,5 +1,5 @@
 # 最精简代码学习GAN的生成图像示例
-<!-- <img src = "809325722_cover.jpg" width= "80%"> -->
+
 ![LALALALALAL](809325722_cover.jpg)
 
 ## **前言**
