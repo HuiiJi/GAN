@@ -14,7 +14,7 @@
 
 打开cmd， git clone该demo的地址
 ```
-git clone git@github.com:752413464/GAN.py.git
+git clone git@github.com:752413464/GAN.git
 cd GAN
 ```
 首先起一个虚拟环境，需要配置torch，torchvision等库（**以下命令需要先安装好Anaconda**）
