@@ -31,9 +31,15 @@ pip install matplotlib scikit-image opencv-python tqdm
 ```
 pip install -r requirements.txt
 ``` 
-## **运行**
+## **开始训练**
 
 将下载的数据集放在Gan_.py同级目录下
 ```
 python GAN_.py
 ```
+## **推理**
+将保存的weights加载进来推理
+```
+python inference.py
+```
+
